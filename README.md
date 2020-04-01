@@ -21,7 +21,7 @@ Admin tool can be a SPA (use new framework)
   * Add slots when interviewer is available, E.g Select Monday at 10am, Tuesday at 11am, etc..
 
 3. Slots are displayed in calendar, so that they won't be available for next candidate creation
-4. New url is provided so that you can send that url over the candidate, and he'll get to decide which slot works better for meeting/talking.
+4. New url is provided so that you can send that url over the candidates, and they'll get to decide which slot works better for meeting/talking.
 
 
 ## Workflow candidate
