@@ -3,7 +3,7 @@ colander==1.7.0
 Flask==1.1.1
 iso8601==0.1.12
 itsdangerous==1.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 mock==4.0.2
 psycopg2==2.8.4
